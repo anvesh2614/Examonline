@@ -1,0 +1,5 @@
+pyttsx3==2.7
+gunicorn==19.9.0
+opencv-python==4.5.1.48
+numpy==1.18.1
+flask==1.1.2
